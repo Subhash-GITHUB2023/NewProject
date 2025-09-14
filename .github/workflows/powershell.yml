@@ -17,4 +17,4 @@ jobs:
         shell: pwsh
         run: |
           Write-Host "Running PowerShell script"
-          ${{ github.workspace }}/NewProject/Script1.ps1
+          ./Script1.ps1
