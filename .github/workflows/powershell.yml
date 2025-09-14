@@ -17,4 +17,4 @@ jobs:
         shell: pwsh
         run: |
           Write-Host "Running PowerShell script"
-          ./NewProject/Script1.ps1
+          #./NewProject/Script1.ps1
